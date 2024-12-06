@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Datalib_HK
-=======
 # DataLib: Python Data Analysis Library
 
 ## Overview
@@ -81,4 +78,3 @@ Contributions are welcome! Please check our GitHub repository for guidelines.
 ## License
 
 This project is licensed under the MIT License.
->>>>>>> de1aeef (m)
